@@ -49,7 +49,7 @@
 <details>
 <summary>VER capturas</summary>
 
-![Splash](screenshots/Screenshot_20250718_214624.jpg)
+![Splash](screenshots/intro.jpg)
 
 ---
 
@@ -61,23 +61,23 @@
 
 ---
 
-![Home 1](screenshots/Screenshot_20250718_214629.jpg)
+![Home 1](screenshots/personajes1.jpg)
 
 ---
 
-![Home 2](screenshots/Screenshot_20250718_214637.jpg)
+![Home 2](screenshots/personajes2.jpg)
 
 ---
 
-![Chat 1](screenshots/Screenshot_20250718_214647.jpg)
+![Chat 1](screenshots/chat1.jpg)
 
 ---
 
-![Chat 2](screenshots/Screenshot_20250718_214654.jpg)
+![Chat 2](screenshots/chat2.jpg)
 
 ---
 
-![Ajustes](screenshots/Screenshot_20250718_214711.jpg)
+![Ajustes](screenshots/ajustes.jpg)
 
 </details>
 
