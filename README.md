@@ -1,4 +1,4 @@
-# 🤖 Tralalero Chat IA — App Android (versión pública solo-demo)
+# 🤖 Tralalero Chat IA — App Android
 
 > **Tralalero Chat IA** es una aplicación móvil que te permite chatear con los personajes más caóticos del _Italian Brainrot_.  
 > Este repositorio **NO contiene el código fuente**: solo incluye capturas de pantalla y una descripción técnica/funcional para fines de portafolio.  
