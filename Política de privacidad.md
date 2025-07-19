@@ -1,5 +1,4 @@
 # Política de Privacidad  
-*Versión 1.0 – [18 jul 2025]*  
 
 **Tralalero Chat IA** (en adelante «la App») es desarrollada y mantenida por **Henry Luis Callupe Ancco** («nosotros»). El objetivo de esta política es explicar de forma simple qué datos se recolectan y cómo se utilizan.
 
